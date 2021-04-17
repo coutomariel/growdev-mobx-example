@@ -1,4 +1,4 @@
-import 'package:exemplo_mobx/counter..store.dart';
+import 'package:exemplo_mobx/counter.store.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 
